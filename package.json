@@ -2,13 +2,18 @@
   "name": "programmer",
   "displayName": "Programmer",
   "description": "Programmer theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "paradoxfm",
   "engines": {
     "vscode": "^1.79.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paradoxfm/programmer"
+  },
   "contributes": {
     "themes": [
       {
