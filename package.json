@@ -1,0 +1,21 @@
+{
+  "name": "programmer",
+  "displayName": "Programmer",
+  "description": "Programmer theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Programmer theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/programmer-color-theme.json"
+      }
+    ]
+  }
+}
